@@ -1,0 +1,172 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Wireless Bluetooth Headphones",
+      "description": "Experience premium sound quality with these wireless over-ear headphones. Features active noise cancellation, 30-hour battery life, and comfortable ear cushions for extended listening sessions.",
+      "price": 44.99,
+      "image": "https://www.boat-lifestyle.com/cdn/shop/products/main2_b66dce6b-710d-49cb-9d1c-2bc8c9c0ab15_600x.png?v=1645698328",
+      "category": "Electronics",
+      "stock": 15,
+      "gallery": [
+        "https://www.boat-lifestyle.com/cdn/shop/files/R425-FI_Black05_1000x.png?v=1686289116",
+        "https://www.boat-lifestyle.com/cdn/shop/files/R425-FI_Black03_1000x.png?v=1686289119",
+        "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/R425-FI_Black04_2393x.png?v=1686289119"
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "Smart Watch Series 5",
+      "description": "Stay connected and track your fitness with this advanced smartwatch. Features heart rate monitoring, GPS, water resistance up to 50 meters, and a beautiful retina display.",
+      "price": 69.99,
+      "image": "https://www.gonoise.com/cdn/shop/files/1_c95e5561-4f66-413d-b143-42d31821e554.webp?v=1721392308",
+      "category": "Electronics",
+      "stock": 8,
+      "gallery": [
+        "https://www.gonoise.com/cdn/shop/files/3_e3058587-e2a1-4d2f-afd1-af5b762dcccb.webp?v=1721392308",
+        "https://www.gonoise.com/cdn/shop/files/4_916fa0ff-8e6c-4484-8f39-3e45c21fe822.webp?v=1735883960",
+        "https://www.gonoise.com/cdn/shop/files/5_c6905136-d20d-44a3-a4e9-1e5d3d077075.webp?v=1735883960"
+      ]
+    },
+    {
+      "id": "p3",
+      "name": "Ultra HD Smart TV 55\"",
+      "description": "Transform your home entertainment with this 55-inch Ultra HD Smart TV. Featuring crystal-clear 4K resolution, smart capabilities for streaming your favorite content, and multiple HDMI ports for all your devices.",
+      "price": 219.99,
+      "image": "../thum-1600x1062.png",
+      "category": "Electronics",
+      "stock": 5,
+      "gallery": [
+        "https://www.lg.com/content/dam/channel/wcms/in/images/tvs/web-os/gallery/webOS-Program-Gallery-Banner-2010x1334.jpg/_jcr_content/renditions/thum-1600x1062.jpeg",
+        "https://www.lg.com/content/dam/channel/wcms/in/images/tvs/55ut80406la_atr_eail_c/gallery/55UT80406LA-DZ-4.jpg/_jcr_content/renditions/thum-1600x1062.jpeg",
+        "https://www.lg.com/content/dam/channel/wcms/in/images/tvs/55ut80406la_atr_eail_c/gallery/55UT80406LA-DZ-6.jpg/_jcr_content/renditions/thum-1600x1062.jpeg"
+      ]
+    },
+    {
+      "id": "p4",
+      "name": "Men's Casual T-Shirt",
+      "description": "Classic comfort meets modern style with this premium cotton t-shirt. Features a relaxed fit, durable fabric that gets softer with each wash, and is available in multiple colors.",
+      "price": 9.99,
+      "image": "../shirt.png",
+      "category": "Clothing",
+      "stock": 25,
+      "gallery": [
+        "https://www.cotstyle.com/cdn/shop/files/RN01_384991_S_Black_6.jpg?v=1685428882",
+        "https://www.cotstyle.com/cdn/shop/files/RN01_384991_S_Black_1.jpg?v=1685428884",
+        "https://www.cotstyle.com/cdn/shop/files/RN01_384991_S_Black.jpg?v=1685428877"
+      ]
+    },
+    {
+      "id": "p5",
+      "name": "Women's Running Shoes",
+      "description": "Engineered for performance and comfort, these running shoes feature responsive cushioning, breathable mesh upper, and durable rubber outsoles that provide excellent traction on various surfaces.",
+      "price": 34.99,
+      "image": "../shoes.png",
+      "category": "Clothing",
+      "stock": 12,
+      "gallery": [
+        "https://www.skechers.in/on/demandware.static/-/Sites-skechers_india/default/dwc34cc796/images/large/196642717489-2.jpg",
+        "https://www.skechers.in/on/demandware.static/-/Sites-skechers_india/default/dwb6ffd5b4/images/large/196642717489-3.jpg",
+        "https://www.skechers.in/on/demandware.static/-/Sites-skechers_india/default/dw6b4e8092/images/large/196642717489-5.jpg"
+      ]
+    },
+    {
+      "id": "p6",
+      "name": "Denim Jeans",
+      "description": "Classic denim jeans with a modern fit. Made from high-quality denim that offers both comfort and durability, these jeans are perfect for casual everyday wear.",
+      "price": 24.99,
+      "image": "../denim.png",
+      "category": "Clothing",
+      "stock": 20,
+      "gallery": [
+        "https://freakins.com/cdn/shop/files/8JULY24_17178-Edit_c37065b2-c56e-40c9-ad34-cb9582a4f923.jpg?v=1736359558&width=1000",
+        "https://freakins.com/cdn/shop/files/8-JULY24_17163-Edit.jpg?v=1736359558&width=900",
+        "https://freakins.com/cdn/shop/files/8JULY24_17182-Edit_bf671050-64e9-4998-a7e6-1de93beea8f3.jpg?v=1736359558&width=1000"
+      ]
+    },
+    {
+      "id": "p7",
+      "name": "Stainless Steel Cooker",
+      "description": "Durable and easy to use, this stainless steel cooker ensures fast, even cooking with added safety features. Compatible with all stovetops and easy to clean—perfect for everyday meals.",
+      "price": 44.99,
+      "image": "../cookware.png",
+      "category": "Home",
+      "stock": 7,
+      "gallery": [
+        "https://shop.ttkprestige.com/media/catalog/product/4/5/4550-20708-IMG2.jpg?optimize=high&fit=bounds&height=500&width=500",
+        "https://shop.ttkprestige.com/media/catalog/product/6/8/6814-20708-IMG3.jpg?optimize=high&fit=bounds&height=500&width=500",
+        "https://shop.ttkprestige.com/media/catalog/product/3/8/3867-20708-IMG4.jpg?optimize=high&fit=bounds&height=500&width=500"
+      ]
+    },
+    {
+      "id": "p8",
+      "name": "Robot Vacuum Cleaner",
+      "description": "Let this smart robot vacuum do the cleaning for you. Features intelligent mapping, powerful suction, and can be controlled via smartphone app. Set schedules and cleaning patterns for a consistently clean home.",
+      "price": 89.99,
+      "image": "../robot.png",
+      "category": "Home",
+      "stock": 10,
+      "gallery": [
+        "https://m.media-amazon.com/images/I/71uDbmHyebL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/817jU601scL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81yyRKSThHL._SX679_.jpg"
+      ]
+    },
+    {
+      "id": "p9",
+      "name": "Bedding Set - Queen",
+      "description": "Transform your bedroom with this luxury bedding set. Includes a duvet cover, fitted sheet, flat sheet, and 4 pillowcases. Made from 100% Egyptian cotton with a 400 thread count for exceptional softness and durability.",
+      "price": 29.99,
+      "image": "../bedset.png",
+      "category": "Home",
+      "stock": 15,
+      "gallery": [
+        "https://images-cdn.ubuy.co.in/652b2c3c913ebe36895ba15c-7-piece-all-season-bedding-queen-size.jpg",
+        "https://images-cdn.ubuy.co.in/652b2c3c913ebe36895ba162-7-piece-all-season-bedding-queen-size.jpg",
+        "https://images-cdn.ubuy.co.in/652b2c3c913ebe36895ba165-7-piece-all-season-bedding-queen-size.jpg"
+      ]
+    },
+    {
+      "id": "p10",
+      "name": "Wireless Charging Pad",
+      "description": "Charge your compatible devices wirelessly with this sleek charging pad. Features fast charging technology, LED indicator, and non-slip surface to keep your device secure while charging.",
+      "price": 11.99,
+      "image": "../charger.png",
+      "category": "Electronics",
+      "stock": 30,
+      "gallery": [
+        "https://m.media-amazon.com/images/I/61euh1T8ANL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61iWe5UkaVL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51aZ4fbctOL._SX679_.jpg"
+      ]
+    },
+    {
+      "id": "p11",
+      "name": "Winter Jacket",
+      "description": "Stay warm during the coldest months with this insulated winter jacket. Features a waterproof outer shell, thermal lining, adjustable hood, and multiple pockets for all your essentials.",
+      "price": 39.99,
+      "image": "../jacket.png",
+      "category": "Clothing",
+      "stock": 18,
+      "gallery": [
+        "https://images.bestsellerclothing.in/data/JJ/19-dec-2024/901320102_g1.jpg?width=488&height=650&mode=fill&fill=blur&format=auto",
+        "https://images.bestsellerclothing.in/data/JJ/19-dec-2024/901320102_g3.jpg?width=488&height=650&mode=fill&fill=blur&format=auto",
+        "https://images.bestsellerclothing.in/data/JJ/19-dec-2024/901320102_g4.jpg?width=488&height=650&mode=fill&fill=blur&format=auto"
+      ]
+    },
+    {
+      "id": "p12",
+      "name": "Coffee Maker",
+      "description": "Start your morning right with this programmable coffee maker. Features a 12-cup capacity, built-in grinder for fresh coffee, and timer function so you can wake up to freshly brewed coffee every day.",
+      "price": 34.99,
+      "image": "../coffee.png",
+      "category": "Home",
+      "stock": 12,
+      "gallery": [
+        "https://m.media-amazon.com/images/I/81O3JpUe2UL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71v6dhYJxbL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/818gyfjYmZL._SX679_.jpg"
+      ]
+    }
+  ]
+}
